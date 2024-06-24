@@ -1,0 +1,99 @@
+header{
+    display: flex;
+    height: 150px;
+    background-color: #FA8072;
+    justify-content: space-between;
+    align-items: center;
+    border: 7px solid;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+nav li{
+    display: inline;
+}
+nav li :hover{
+    color: white;  
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.links1{
+    bebas-neue-regular {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       }
+    font-size: 20px;
+    margin: 5px;
+    text-decoration: underline;
+}
+.padre{
+    background-color: #FA8072;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  .contedor_limite{
+    max-width: 800px;
+}
+.titulofoter{
+    .bebas-neue-regular{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+        font-size: 50px;
+    text-align: center;
+    
+}
+footer{
+    .bebas-neue-regular {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       }
+    background-color: #FA8072;
+    border: 7px solid;
+    margin: 0 auto;
+   
+    
+}
+.links{
+    bebas-neue-regular {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       }
+       
+}
+
+.titulo_1{
+    .bebas-neue-regular {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       }
+      
+    
+}
+section{
+    height: px;
+    width:;
+}
+.card{
+  width: 400px;
+  height: 300px;
+  border: 2px solid;  
+  padding: 25px;
+  margin: 300px auto;
+  background-color: #FA8072;
+}
+body{
+    background-color: #FA8072;
+}
+.carousel{
+    background-color: #FA8072;
+}
